@@ -1,0 +1,13 @@
+.btn-primary {
+  background-color: rgb(24, 163, 136);
+  color: white;
+  border-radius: 100px;
+  padding: 16px 36px;
+  display: inline-block;
+}
+
+.btn-primary:hover {
+  background-color: rgb(30, 216, 179);
+  color: white;
+  transition-duration: 0.3s;
+}
